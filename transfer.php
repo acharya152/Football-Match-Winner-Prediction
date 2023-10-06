@@ -151,7 +151,7 @@ if ($action === 'transfer_player' && isset($selected_team_id)) {
 </head>
 <body>
     <div class="container">
-        <h1>Football Team Manager</h1>
+        <h1>Transfer Window</h1>
         <p>Manage your football teams and players.</p>
         
         <form method="POST" action="">
